@@ -4,4 +4,4 @@ A simulated Root file is available at this address:
 
 https://cernbox.cern.ch/s/aIQhET482Elcq1u
 
-A Python notebook code example to read the main information from the Root file and make it available for BDT training is found in this folder.
+A Python notebook code example to read the main information from the Root file and make it available for BDT training is found in this folder ("File_Load_Example.ipynb").
